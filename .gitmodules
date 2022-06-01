@@ -7,3 +7,6 @@
 [submodule "WSCS4b_process"]
 	path = WSCS4b_process
 	url = https://github.com/Yuluuuuan/WSCS4b_process.git
+[submodule "WSCS4b_predict"]
+	path = WSCS4b_predict
+	url = https://github.com/Yuluuuuan/WSCS4b_predict.git
