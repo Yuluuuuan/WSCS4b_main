@@ -4,3 +4,6 @@
 [submodule "WSCS4b_map"]
 	path = WSCS4b_map
 	url = https://github.com/Yuluuuuan/WSCS4b_map.git
+[submodule "WSCS4b_process"]
+	path = WSCS4b_process
+	url = https://github.com/Yuluuuuan/WSCS4b_process.git
