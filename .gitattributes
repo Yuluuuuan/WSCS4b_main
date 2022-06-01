@@ -1,0 +1,4 @@
+data/simpletestset.csv filter=lfs diff=lfs merge=lfs -text
+data/simpletrainset.csv filter=lfs diff=lfs merge=lfs -text
+data/trainset.csv filter=lfs diff=lfs merge=lfs -text
+data/train.csv filter=lfs diff=lfs merge=lfs -text
