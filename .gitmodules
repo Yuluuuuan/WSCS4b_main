@@ -10,3 +10,6 @@
 [submodule "WSCS4b_predict"]
 	path = WSCS4b_predict
 	url = https://github.com/Yuluuuuan/WSCS4b_predict.git
+[submodule "setup-brane-action"]
+	path = setup-brane-action
+	url = https://github.com/romnn/setup-brane-action.git
