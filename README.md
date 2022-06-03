@@ -26,6 +26,10 @@ or
 $ git submodule init
 $ git submodule update
 ```
+run command `cd` into main repository:
+```bash
+$ cd WSCS4b_main
+```
 
 ## Build
 First get access to your brane instance, run
@@ -44,6 +48,17 @@ $ brane search
 ```
 
 ## Running the pipeline
+Make sure you install the BraneScript kernel for JupyterLab.
+
+Clone the IDE repository:
+```bash
+$ git clone https://github.com/epi-project/brane-ide.git
+```
+
+Then use command `cd` into the repository:
+```bash
+$ cd brane-ide
+```
 
 Launch the containerized JupyterLab
 ```bash
