@@ -26,6 +26,10 @@ or
 $ git submodule init
 $ git submodule update
 ```
+run command `cd` into main repository:
+```bash
+$ cd WSCS4b_main
+```
 
 ## Build
 First get access to your brane instance, run
