@@ -1,9 +1,9 @@
 # Web Services and Cloud-Based Systems - Assignment 4b: Programming Project - Group30
+## [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6610580.svg)](https://doi.org/10.5281/zenodo.6610580)
+
 - Yiyang Qi
 - Yulu Wang
 - Yuxiang Wang
-
-## [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6610580.svg)](https://doi.org/10.5281/zenodo.6610580)
 
 ## Introduction
 
