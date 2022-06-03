@@ -13,6 +13,3 @@
 [submodule "WSCS4b_extract"]
 	path = WSCS4b_extract
 	url = https://github.com/Yuluuuuan/WSCS4b_extract.git
-[submodule "setup-brane-action"]
-	path = setup-brane-action
-	url = https://github.com/Wangwyxxx10/setup-brane-action.git
