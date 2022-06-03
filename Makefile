@@ -12,4 +12,4 @@ build_process:
 	brane unpublish -f process && brane remove -f process && brane build -c process container.yml && brane push process
 
 build_predict:
-	brane unpublish -f predict && brane unpublish -f predict && brane remove -f predict && brane build -c predict container.yml && brane push predict
+	brane unpublish -f predict && brane remove -f predict && brane build -c predict container.yml && brane push predict
