@@ -1,3 +1,6 @@
+requirements:
+	pip install -r requirements.txt
+	
 build: build_extract build_line build_map build_process build_predict
 
 build_extract:
